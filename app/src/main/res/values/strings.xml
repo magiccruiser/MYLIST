@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyList</string>
+
+    <string-array name="items">
+        <item>Potato</item>
+        <item>Tomato</item>
+        <item>Tindaa</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>30</item>
+        <item>60</item>
+        <item>20</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>ALoo lelooooo frands</item>
+        <item>Tamatar bade ho gaye hain bhai....rate sahi ni lagega</item>
+        <item>hame to pasand ni hai....soo its negotiable</item>
+    </string-array>
+</resources>
